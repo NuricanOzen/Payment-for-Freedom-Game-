@@ -20,6 +20,7 @@
 
 ### 📂 File Navigation Guide (For Code Reviewers)
 To review the C# source code directly in your browser without opening the Unity Editor, navigate to the following path:
+
 👉 `PaymentforFreedom/Final Project/Assets/Scripts/`
 
 ### ⚙️ Technical Achievements & Core Mechanics
@@ -45,6 +46,7 @@ meta uzantılı dosyalar üzerinden kodları inceleyemezsiniz.
 
 ### 📂 Dosya İnceleme Rehberi (Kod Okumaları İçin)
 Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# kaynak kodlarını okumak için şu dizine gidin:
+
 👉 `PaymentforFreedom/Final Project/Assets/Scripts/`
 
 ### ⚙️ Teknik Başarılar ve Temel Mekanikler
