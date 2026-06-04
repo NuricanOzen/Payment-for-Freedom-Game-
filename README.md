@@ -16,7 +16,7 @@ To review the C# source code directly in your browser without opening the Unity 
 👉 **Directory:** `Assets/Scripts/`
 
 **Important Note on File Types:**
-🟢 **Click on `.cs` files** (e.g., `Movement.cs`) to view the actual C# source code and logic.
+**Click on `.cs` files** (e.g., `Movement.cs`) to view the actual C# source code and logic.
 
 
 ### ⚙️ Technical Achievements & Core Mechanics
@@ -41,7 +41,7 @@ Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# ka
 👉 **Dizin:** `Assets/Scripts/`
 
 **Dosya Uzantıları İçin Önemli Not:**
-* 🟢 **`.cs` dosyalarına tıklayın** (Örn: `Movement.cs`). Yazılım algoritmaları ve mantıksal mimari bu dosyaların içindedir.
+**`.cs` dosyalarına tıklayın** (Örn: `Movement.cs`). Yazılım algoritmaları ve mantıksal mimari bu dosyaların içindedir.
 içermezler
 
 ### ⚙️ Teknik Başarılar ve Temel Mekanikler
