@@ -27,7 +27,7 @@ To review the C# source code directly in your browser without opening the Unity 
 The following systems were built entirely from scratch using C#:
 
 * **Physics & Kinematics (`Movement.cs`):** A 2D character controller was written using `Rigidbody2D` for jumping and horizontal movement.
-* **Collision & Hitbox Detection (TrapCollision.cs):** OnTriggerEnter2D events were used in Unity to trigger penalty mechanics.
+* **Collision & Hitbox Detection (`TrapCollision.cs`):** `OnTriggerEnter2D` events were used in Unity to trigger penalty mechanics.
 * **Data & Inventory Management (`PlayerInventory.cs` & `Key.cs`):** An inventory logic was created to track collectible items and update the UI dynamically.
 * **Dynamic Camera System (`Camera.cs`):** A camera algorithm was programmed to follow the character.
 * **Game State & Flow (`Win.cs` & `Story.cs`):** State logic was set up to manage win/lose conditions and scene transitions.
