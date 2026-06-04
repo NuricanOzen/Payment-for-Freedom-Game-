@@ -27,7 +27,7 @@ To review the C# source code directly in your browser without opening the Unity 
 The following systems were built entirely from scratch using C#:
 
 * **Physics & Kinematics (`Movement.cs`):** A 2D character controller was written using `Rigidbody2D` for jumping and horizontal movement.
-* **Collision & Hitbox Detection (`TrapCollision.cs`):** `OnTriggerEnter2D` events were used in Unity to detect environmental hazards and trigger penalty mechanics without performance loss.
+* **Collision & Hitbox Detection (TrapCollision.cs):** OnTriggerEnter2D events were used in Unity to trigger penalty mechanics.
 * **Data & Inventory Management (`PlayerInventory.cs` & `Key.cs`):** An inventory logic was created to track collectible items and update the UI dynamically.
 * **Dynamic Camera System (`Camera.cs`):** A camera algorithm was programmed to follow the character.
 * **Game State & Flow (`Win.cs` & `Story.cs`):** State logic was set up to manage win/lose conditions and scene transitions.
@@ -52,7 +52,7 @@ içermezler
 Aşağıdaki sistemler C# kullanılarak sıfırdan geliştirilmiştir:
 
 * **Fizik ve Kinematik (`Movement.cs`):** `Rigidbody2D` kullanılarak,  zıplama ve yatay hareket  için bir 2D karakter kontrolcüsü yazıldı.
-* **Çarpışma ve Hitbox Algılama (`TrapCollision.cs`):** Çevresel tehlikeleri algılamak ve performans kaybı yaşamadan ceza mekaniklerini tetiklemek için Unity üzerinden `OnTriggerEnter2D` olayları yapıldı.
+* **Çarpışma ve Hitbox Algılama (`TrapCollision.cs`):** Ceza mekaniklerini tetiklemek için Unity üzerinden `OnTriggerEnter2D` olayları yapıldı.
 * **Veri ve Envanter Yönetimi (`PlayerInventory.cs` & `Key.cs`):** Toplanabilir öğeleri takip etmek ve arayüzü (UI) dinamik olarak güncellemek için  bir envanter mantığı oluşturuldu.
 * **Dinamik Kamera Sistemi (`Camera.cs`):** karakteri  takip eden bir kamera algoritması programlandı.
 * **Oyun Durumu ve Akışı (`Win.cs` & `Story.cs`):** Kazanma/kaybetme koşullarını ve sahne geçişlerini yönetmek için durum algoritmaları (state logic) kurgulandı.
