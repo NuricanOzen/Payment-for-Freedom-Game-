@@ -15,13 +15,12 @@
 ### 🎮 About the Project
 "Payment for Freedom" is a 2D platformer game developed using Unity and C#. This repository contains the complete project architecture. The primary focus of this project is to implement stable physics mechanics, modular code design, and efficient game state management.
 
-### 📂 File Navigation Guide (For Code Reviewers)
-To review the C# source code directly in your browser without opening the Unity Editor, navigate to the following path:
-👉 **Directory:** `PaymentforFreedom/Final Project/Assets/Scripts/`
-
 **Important Note on File Types:**
 **Click on `.cs` files** (e.g., `Movement.cs`) to view the actual C# source code and logic.
 
+### 📂 File Navigation Guide (For Code Reviewers)
+To review the C# source code directly in your browser without opening the Unity Editor, navigate to the following path:
+👉 **Directory:** `PaymentforFreedom/Final Project/Assets/Scripts/`
 
 ### ⚙️ Technical Achievements & Core Mechanics
 The following systems were built entirely from scratch using C#:
@@ -40,13 +39,13 @@ The following systems were built entirely from scratch using C#:
 ### 🎮 Proje Hakkında
 "Payment for Freedom", Unity ve C# kullanılarak geliştirilmiş bir 2D platform oyunudur. Bu depo, projenin tam mimarisini barındırmaktadır. Projenin temel odak noktası; kararlı fizik mekanikleri oluşturmak, modüler kod tasarımı yapmak ve oyun durum yönetimini (game state) optimize etmektir.
 
-### 📂 Dosya İnceleme Rehberi (Kod Okumaları İçin)
-Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# kaynak kodlarını okumak için şu dizine gidin:
-👉 **Dizin:** `PaymentforFreedom/Final Project/Assets/Scripts/`
-
 **Dosya Uzantıları İçin Önemli Not:**
 **`.cs` dosyalarına tıklayın** (Örn: `Movement.cs`). Yazılım algoritmaları ve mantıksal mimari bu dosyaların içindedir.
 içermezler
+
+### 📂 Dosya İnceleme Rehberi (Kod Okumaları İçin)
+Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# kaynak kodlarını okumak için şu dizine gidin:
+👉 **Dizin:** `PaymentforFreedom/Final Project/Assets/Scripts/`
 
 ### ⚙️ Teknik Başarılar ve Temel Mekanikler
 Aşağıdaki sistemler C# kullanılarak sıfırdan geliştirilmiştir:
