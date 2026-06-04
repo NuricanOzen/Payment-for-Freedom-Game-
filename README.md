@@ -16,7 +16,7 @@
 "Payment for Freedom" is a 2D platformer game developed using Unity and C#. This repository contains the complete project architecture. The primary focus of this project is to implement stable physics mechanics, modular code design, and efficient game state management.
 
 **Important Note on File Types:**
-**Click on `.cs` files** (e.g., `Movement.cs`). The software algorithms are inside these files. You cannot review the code through .meta extension files
+**Click on `.cs` files** (e.g., `Movement.cs`). The software algorithms are inside these files. You cannot review the code through .meta extension files.
 
 ### 📂 File Navigation Guide (For Code Reviewers)
 To review the C# source code directly in your browser without opening the Unity Editor, navigate to the following path:
@@ -52,8 +52,8 @@ Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# ka
 ### ⚙️ Teknik Başarılar ve Temel Mekanikler
 Aşağıdaki sistemler C# kullanılarak sıfırdan geliştirilmiştir:
 
-* **Fizik ve Kinematik (`Movement.cs`):** `Rigidbody2D` kullanılarak,  zıplama ve yatay hareket  için bir 2D karakter kontrolcüsü yazıldı.
+* **Fizik ve Kinematik (`Movement.cs`):** `Rigidbody2D` kullanılarak,  zıplama ve yatay hareket için bir 2D karakter kontrolcüsü yazıldı.
 * **Çarpışma ve Hitbox Algılama (`TrapCollision.cs`):** Ceza mekaniklerini tetiklemek için Unity üzerinden `OnTriggerEnter2D` olayları yapıldı.
 * **Veri ve Envanter Yönetimi (`PlayerInventory.cs` & `Key.cs`):** Toplanabilir öğeleri takip etmek ve arayüzü (UI) dinamik olarak güncellemek için  bir envanter mantığı oluşturuldu.
-* **Dinamik Kamera Sistemi (`Camera.cs`):** karakteri takip eden bir kamera algoritması programlandı.
+* **Dinamik Kamera Sistemi (`Camera.cs`):** Karakteri takip eden bir kamera algoritması programlandı.
 * **Oyun Durumu ve Akışı (`Win.cs` & `Story.cs`):** Kazanma/kaybetme koşullarını ve sahne geçişlerini yönetmek için durum algoritmaları (state logic) kurgulandı.
