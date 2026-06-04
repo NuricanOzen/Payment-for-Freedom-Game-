@@ -49,7 +49,7 @@ içermezler
 Aşağıdaki sistemler C# kullanılarak sıfırdan geliştirilmiştir:
 
 * **Fizik ve Kinematik (`Movement.cs`):** `Rigidbody2D` kullanılarak,  zıplama ve yatay hareket  için bir 2D karakter kontrolcüsü yazıldı.
-* **Çarpışma ve Hitbox Algılama (`TrapCollision.cs`):** Çevresel tehlikeleri algılamak ve performans kaybı yaşamadan ceza mekaniklerini tetiklemek için *Unity* üzerinden `OnTriggerEnter2D` olayları yapıldı.
+* **Çarpışma ve Hitbox Algılama (`TrapCollision.cs`):** Çevresel tehlikeleri algılamak ve performans kaybı yaşamadan ceza mekaniklerini tetiklemek için Unity üzerinden `OnTriggerEnter2D` olayları yapıldı.
 * **Veri ve Envanter Yönetimi (`PlayerInventory.cs` & `Key.cs`):** Toplanabilir öğeleri takip etmek ve arayüzü (UI) dinamik olarak güncellemek için  bir envanter mantığı oluşturuldu.
 * **Dinamik Kamera Sistemi (`Camera.cs`):** karakteri  takip eden bir kamera algoritması programlandı.
 * **Oyun Durumu ve Akışı (`Win.cs` & `Story.cs`):** Kazanma/kaybetme koşullarını ve sahne geçişlerini yönetmek için durum algoritmaları (state logic) kurgulandı.
