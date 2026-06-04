@@ -1,7 +1,7 @@
 ![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
-> *This project is currently in the active development phase. As bugs are identified, they will be fixed, and the project will be continuously improved.*
+> ## 🇬🇧 English *This project is currently in the active development phase. As bugs are identified, they will be fixed, and the project will be continuously improved.*
 
-> *Bu proje şu an aktif geliştirme aşamasındadır. Proje hataları fark edildikçe düzeltilecek ve proje sürekli olarak daha iyi hale getirilecektir.*
+> ## 🇹🇷 Türkçe *Bu proje şu an aktif geliştirme aşamasındadır. Proje hataları fark edildikçe düzeltilecek ve proje sürekli olarak daha iyi hale getirilecektir.*
 
 # Payment for Freedom - Unity 2D Platformer
 
