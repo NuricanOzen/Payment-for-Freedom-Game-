@@ -23,11 +23,11 @@ To review the C# source code directly in your browser without opening the Unity 
 ### ⚙️ Technical Achievements & Core Mechanics
 The following systems were built entirely from scratch using C#:
 
-* **Physics & Kinematics (`Movement.cs`):** Engineered a responsive 2D character controller utilizing Rigidbody2D, optimizing velocity calculations for precise jumping and horizontal movement.
-* **Collision & Hitbox Detection (`TrapCollision.cs`):** Implemented efficient trigger events (`OnTriggerEnter2D`) to detect environmental hazards and manage penalty mechanics without performance drops.
-* **Data & Inventory Management (`PlayerInventory.cs` & `Key.cs`):** Created a scalable inventory logic to track collectible items and update the UI dynamically.
-* **Dynamic Camera System (`Camera.cs`):** Programmed a customized camera follow algorithm using `LateUpdate` to ensure smooth visual tracking of the player character, avoiding physics stutters.
-* **Game State & Flow (`Win.cs` & `Story.cs`):** Developed finite state logic to manage win/lose conditions and seamless scene transitions.
+* **Physics & Kinematics (`Movement.cs`):** A 2D character controller was written using `Rigidbody2D` for jumping and horizontal movement.
+* **Collision & Hitbox Detection (`TrapCollision.cs`):** `OnTriggerEnter2D` events were used in Unity to detect environmental hazards and trigger penalty mechanics without performance loss.
+* **Data & Inventory Management (`PlayerInventory.cs` & `Key.cs`):** An inventory logic was created to track collectible items and update the UI dynamically.
+* **Dynamic Camera System (`Camera.cs`):** A camera algorithm was programmed to follow the character.
+* **Game State & Flow (`Win.cs` & `Story.cs`):** State logic was set up to manage win/lose conditions and scene transitions.
 
 ---
 
@@ -48,8 +48,8 @@ içermezler
 ### ⚙️ Teknik Başarılar ve Temel Mekanikler
 Aşağıdaki sistemler C# kullanılarak sıfırdan geliştirilmiştir:
 
-* **Fizik ve Kinematik (`Movement.cs`):** `Rigidbody2D` kullanılarak, hassas zıplama ve yatay hareket hesaplamaları için optimize edilmiş tepkisel bir 2D karakter kontrolcüsü yazıldı.
-* **Çarpışma ve Hitbox Algılama (`TrapCollision.cs`):** Çevresel tehlikeleri algılamak ve performans kaybı yaşamadan ceza mekaniklerini tetiklemek için `OnTriggerEnter2D` olayları optimize edildi.
-* **Veri ve Envanter Yönetimi (`PlayerInventory.cs` & `Key.cs`):** Toplanabilir öğeleri takip etmek ve arayüzü (UI) dinamik olarak güncellemek için ölçeklenebilir bir envanter mantığı oluşturuldu.
-* **Dinamik Kamera Sistemi (`Camera.cs`):** Fiziksel hesaplamalarla çakışmayı önlemek adına `LateUpdate` fonksiyonu kullanılarak, karakteri pürüzsüz takip eden bir kamera algoritması programlandı.
+* **Fizik ve Kinematik (`Movement.cs`):** `Rigidbody2D` kullanılarak,  zıplama ve yatay hareket  için bir 2D karakter kontrolcüsü yazıldı.
+* **Çarpışma ve Hitbox Algılama (`TrapCollision.cs`):** Çevresel tehlikeleri algılamak ve performans kaybı yaşamadan ceza mekaniklerini tetiklemek için *Unity* üzerinden `OnTriggerEnter2D` olayları yapıldı.
+* **Veri ve Envanter Yönetimi (`PlayerInventory.cs` & `Key.cs`):** Toplanabilir öğeleri takip etmek ve arayüzü (UI) dinamik olarak güncellemek için  bir envanter mantığı oluşturuldu.
+* **Dinamik Kamera Sistemi (`Camera.cs`):** karakteri  takip eden bir kamera algoritması programlandı.
 * **Oyun Durumu ve Akışı (`Win.cs` & `Story.cs`):** Kazanma/kaybetme koşullarını ve sahne geçişlerini yönetmek için durum algoritmaları (state logic) kurgulandı.
