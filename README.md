@@ -1,4 +1,5 @@
-# Payment-for-Freedom-Game-
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
+
 # Payment for Freedom - Unity 2D Platformer
 
 **Language:** [English](#english) | [Türkçe](#türkçe)
