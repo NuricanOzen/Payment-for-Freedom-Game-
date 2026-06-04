@@ -40,8 +40,8 @@ The following systems were built entirely from scratch using C#:
 "Payment for Freedom", Unity ve C# kullanılarak geliştirilmiş bir 2D platform oyunudur. Bu depo, projenin tam mimarisini barındırmaktadır. Projenin temel odak noktası; kararlı fizik mekanikleri oluşturmak, modüler kod tasarımı yapmak ve oyun durum yönetimini (game state) optimize etmektir.
 
 **Dosya Uzantıları İçin Önemli Not:**
-**`.cs` dosyalarına tıklayın** (Örn: `Movement.cs`). Yazılım algoritmaları ve mantıksal mimari bu dosyaların içindedir.
-içermezler
+**`.cs` dosyalarına tıklayın** (Örn: `Movement.cs`). Yazılım algoritmaları bu dosyaların içindedir.
+meta uzantılı dosyalar üzerinden kodları inceleyemezsiniz.
 
 ### 📂 Dosya İnceleme Rehberi (Kod Okumaları İçin)
 Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# kaynak kodlarını okumak için şu dizine gidin:
