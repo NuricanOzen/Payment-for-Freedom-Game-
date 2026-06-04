@@ -16,8 +16,8 @@ To review the C# source code directly in your browser without opening the Unity 
 👉 **Directory:** `Assets/Scripts/`
 
 **Important Note on File Types:**
-* 🟢 **Click on `.cs` files** (e.g., `Movement.cs`) to view the actual C# source code and logic.
-* 🔴 **Ignore `.meta` files** (e.g., `Movement.cs.meta`). These are auto-generated Unity configuration files containing GUIDs for engine reference and do not contain readable code.
+🟢 **Click on `.cs` files** (e.g., `Movement.cs`) to view the actual C# source code and logic.
+
 
 ### ⚙️ Technical Achievements & Core Mechanics
 The following systems were built entirely from scratch using C#:
@@ -42,7 +42,7 @@ Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# ka
 
 **Dosya Uzantıları İçin Önemli Not:**
 * 🟢 **`.cs` dosyalarına tıklayın** (Örn: `Movement.cs`). Yazılım algoritmaları ve mantıksal mimari bu dosyaların içindedir.
-* 🔴 **`.meta` dosyalarını görmezden gelin** (Örn: `Movement.cs.meta`). Bunlar Unity'nin nesne eşleştirmesi için otomatik ürettiği şifreli GUID sistem dosyalarıdır, okunabilir kod içermezler.
+içermezler
 
 ### ⚙️ Teknik Başarılar ve Temel Mekanikler
 Aşağıdaki sistemler C# kullanılarak sıfırdan geliştirilmiştir:
