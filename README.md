@@ -16,11 +16,11 @@
 "Payment for Freedom" is a 2D platformer game developed using Unity and C#. This repository contains the complete project architecture. The primary focus of this project is to implement stable physics mechanics, modular code design, and efficient game state management.
 
 **Important Note on File Types:**
-**Click on `.cs` files** (e.g., `Movement.cs`) to view the actual C# source code and logic.
+**"Click on .cs files** (e.g., `Movement.cs`). The software algorithms are inside these files. You cannot review the code through .meta extension files
 
 ### 📂 File Navigation Guide (For Code Reviewers)
 To review the C# source code directly in your browser without opening the Unity Editor, navigate to the following path:
-👉 **Directory:** `PaymentforFreedom/Final Project/Assets/Scripts/`
+👉 `PaymentforFreedom/Final Project/Assets/Scripts/`
 
 ### ⚙️ Technical Achievements & Core Mechanics
 The following systems were built entirely from scratch using C#:
@@ -45,7 +45,7 @@ meta uzantılı dosyalar üzerinden kodları inceleyemezsiniz.
 
 ### 📂 Dosya İnceleme Rehberi (Kod Okumaları İçin)
 Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# kaynak kodlarını okumak için şu dizine gidin:
-👉 **Dizin:** `PaymentforFreedom/Final Project/Assets/Scripts/`
+👉 `PaymentforFreedom/Final Project/Assets/Scripts/`
 
 ### ⚙️ Teknik Başarılar ve Temel Mekanikler
 Aşağıdaki sistemler C# kullanılarak sıfırdan geliştirilmiştir:
