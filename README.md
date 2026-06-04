@@ -14,7 +14,7 @@
 
 ### 📂 File Navigation Guide (For Code Reviewers)
 To review the C# source code directly in your browser without opening the Unity Editor, navigate to the following path:
-👉 **Directory:** `Assets/Scripts/`
+👉 **Directory:** `PaymentforFreedom/Final Project/Assets/Scripts/`
 
 **Important Note on File Types:**
 **Click on `.cs` files** (e.g., `Movement.cs`) to view the actual C# source code and logic.
@@ -39,7 +39,7 @@ The following systems were built entirely from scratch using C#:
 
 ### 📂 Dosya İnceleme Rehberi (Kod Okumaları İçin)
 Unity editörünü açmaya gerek kalmadan, doğrudan tarayıcı üzerinden C# kaynak kodlarını okumak için şu dizine gidin:
-👉 **Dizin:** `Assets/Scripts/`
+👉 **Dizin:** `PaymentforFreedom/Final Project/Assets/Scripts/`
 
 **Dosya Uzantıları İçin Önemli Not:**
 **`.cs` dosyalarına tıklayın** (Örn: `Movement.cs`). Yazılım algoritmaları ve mantıksal mimari bu dosyaların içindedir.
